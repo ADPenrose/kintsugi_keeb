@@ -2195,9 +2195,38 @@ Connection ~ 11800 3600
 Connection ~ 12700 3950
 Connection ~ 12700 2450
 Wire Wire Line
+	12900 3400 13050 3400
+Wire Wire Line
 	12350 3400 12500 3400
+$Comp
+L Device:D_Small D?
+U 1 1 6134698B
+P 12900 3500
+F 0 "D?" V 12946 3430 50  0000 R CNN
+F 1 "D_Small" V 12855 3430 50  0000 R CNN
+F 2 "" V 12900 3500 50  0001 C CNN
+F 3 "~" V 12900 3500 50  0001 C CNN
+	1    12900 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	13250 3950 13250 3200
+$Comp
+L MX_Alps_Hybrid:MX-NoLED MX?
+U 1 1 61346985
+P 13100 3250
+F 0 "MX?" H 13133 3473 60  0000 C CNN
+F 1 "MX-NoLED" H 13133 3399 20  0000 C CNN
+F 2 "" H 12475 3225 60  0001 C CNN
+F 3 "" H 12475 3225 60  0001 C CNN
+	1    13100 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12350 3600 12900 3600
 Wire Wire Line
 	11800 3600 12350 3600
+Connection ~ 12350 3600
 $Comp
 L Device:D_Small D?
 U 1 1 6134697F
@@ -2237,7 +2266,8 @@ Text GLabel 5000 4350 0    50   Input ~ 0
 ROW3
 Text GLabel 5000 5100 0    50   Input ~ 0
 ROW4
-Connection ~ 13250 1700
 Wire Wire Line
-	13250 1700 13250 3950
+	13250 1700 13250 3200
+Connection ~ 13250 1700
+Connection ~ 13250 3200
 $EndSCHEMATC
