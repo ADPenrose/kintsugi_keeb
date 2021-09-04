@@ -1,4 +1,4 @@
-# kintsugi_keeb
+# KINTSUGI
 Repository for the kintsugi keyboard.
 
 ## Licence
