@@ -2033,7 +2033,7 @@ F 3 "" H 5850 7850 50  0001 C CNN
 	1    5850 7850
 	1    0    0    -1  
 $EndComp
-Text GLabel 1400 2350 0    50   Input ~ 0
+Text GLabel 1400 2250 0    50   Input ~ 0
 ULED
 Text Notes 4200 6700 0    157  ~ 31
 Underglow
