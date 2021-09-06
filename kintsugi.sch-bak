@@ -34,7 +34,7 @@ U 1 1 612E2FD5
 P 6250 2350
 F 0 "D2" V 6296 2280 50  0000 R CNN
 F 1 "D_Small" V 6205 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6250 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6250 2350 50  0001 C CNN
 F 3 "~" V 6250 2350 50  0001 C CNN
 	1    6250 2350
 	0    -1   -1   0   
@@ -56,7 +56,7 @@ U 1 1 612E5AFD
 P 6800 2350
 F 0 "D3" V 6846 2280 50  0000 R CNN
 F 1 "D_Small" V 6755 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6800 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6800 2350 50  0001 C CNN
 F 3 "~" V 6800 2350 50  0001 C CNN
 	1    6800 2350
 	0    -1   -1   0   
@@ -78,7 +78,7 @@ U 1 1 612E5B09
 P 7350 2350
 F 0 "D4" V 7396 2280 50  0000 R CNN
 F 1 "D_Small" V 7305 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7350 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7350 2350 50  0001 C CNN
 F 3 "~" V 7350 2350 50  0001 C CNN
 	1    7350 2350
 	0    -1   -1   0   
@@ -100,7 +100,7 @@ U 1 1 612ED759
 P 7900 2350
 F 0 "D5" V 7946 2280 50  0000 R CNN
 F 1 "D_Small" V 7855 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7900 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7900 2350 50  0001 C CNN
 F 3 "~" V 7900 2350 50  0001 C CNN
 	1    7900 2350
 	0    -1   -1   0   
@@ -122,7 +122,7 @@ U 1 1 612ED765
 P 8450 2350
 F 0 "D6" V 8496 2280 50  0000 R CNN
 F 1 "D_Small" V 8405 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8450 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 8450 2350 50  0001 C CNN
 F 3 "~" V 8450 2350 50  0001 C CNN
 	1    8450 2350
 	0    -1   -1   0   
@@ -144,7 +144,7 @@ U 1 1 612ED771
 P 9000 2350
 F 0 "D7" V 9046 2280 50  0000 R CNN
 F 1 "D_Small" V 8955 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9000 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9000 2350 50  0001 C CNN
 F 3 "~" V 9000 2350 50  0001 C CNN
 	1    9000 2350
 	0    -1   -1   0   
@@ -166,7 +166,7 @@ U 1 1 612ED77D
 P 9550 2350
 F 0 "D8" V 9596 2280 50  0000 R CNN
 F 1 "D_Small" V 9505 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9550 2350 50  0001 C CNN
 F 3 "~" V 9550 2350 50  0001 C CNN
 	1    9550 2350
 	0    -1   -1   0   
@@ -188,7 +188,7 @@ U 1 1 612FBE1A
 P 10100 2350
 F 0 "D9" V 10146 2280 50  0000 R CNN
 F 1 "D_Small" V 10055 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10100 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10100 2350 50  0001 C CNN
 F 3 "~" V 10100 2350 50  0001 C CNN
 	1    10100 2350
 	0    -1   -1   0   
@@ -210,7 +210,7 @@ U 1 1 612FBE26
 P 10650 2350
 F 0 "D10" V 10696 2280 50  0000 R CNN
 F 1 "D_Small" V 10605 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10650 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10650 2350 50  0001 C CNN
 F 3 "~" V 10650 2350 50  0001 C CNN
 	1    10650 2350
 	0    -1   -1   0   
@@ -232,7 +232,7 @@ U 1 1 612FBE32
 P 11200 2350
 F 0 "D11" V 11246 2280 50  0000 R CNN
 F 1 "D_Small" V 11155 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11200 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11200 2350 50  0001 C CNN
 F 3 "~" V 11200 2350 50  0001 C CNN
 	1    11200 2350
 	0    -1   -1   0   
@@ -254,7 +254,7 @@ U 1 1 612FBE3E
 P 11750 2350
 F 0 "D12" V 11796 2280 50  0000 R CNN
 F 1 "D_Small" V 11705 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11750 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11750 2350 50  0001 C CNN
 F 3 "~" V 11750 2350 50  0001 C CNN
 	1    11750 2350
 	0    -1   -1   0   
@@ -276,7 +276,7 @@ U 1 1 612FBE4A
 P 12300 2350
 F 0 "D13" V 12346 2280 50  0000 R CNN
 F 1 "D_Small" V 12255 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12300 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12300 2350 50  0001 C CNN
 F 3 "~" V 12300 2350 50  0001 C CNN
 	1    12300 2350
 	0    -1   -1   0   
@@ -287,7 +287,7 @@ U 1 1 612FBE56
 P 12850 2350
 F 0 "D14" V 12896 2280 50  0000 R CNN
 F 1 "D_Small" V 12805 2280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12850 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12850 2350 50  0001 C CNN
 F 3 "~" V 12850 2350 50  0001 C CNN
 	1    12850 2350
 	0    -1   -1   0   
@@ -326,7 +326,7 @@ U 1 1 612DB673
 P 5700 2350
 F 0 "D1" V 5746 2420 50  0000 L CNN
 F 1 "D_Small" V 5655 2420 50  0000 L CNN
-F 2 "Keebio-Parts:Diode-dual" V 5700 2350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 5700 2350 50  0001 C CNN
 F 3 "~" V 5700 2350 50  0001 C CNN
 	1    5700 2350
 	0    1    -1   0   
@@ -402,7 +402,7 @@ U 1 1 61315851
 P 6250 3100
 F 0 "D16" V 6296 3030 50  0000 R CNN
 F 1 "D_Small" V 6205 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6250 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6250 3100 50  0001 C CNN
 F 3 "~" V 6250 3100 50  0001 C CNN
 	1    6250 3100
 	0    -1   -1   0   
@@ -424,7 +424,7 @@ U 1 1 6131585D
 P 6800 3100
 F 0 "D17" V 6846 3030 50  0000 R CNN
 F 1 "D_Small" V 6755 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6800 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6800 3100 50  0001 C CNN
 F 3 "~" V 6800 3100 50  0001 C CNN
 	1    6800 3100
 	0    -1   -1   0   
@@ -446,7 +446,7 @@ U 1 1 61315869
 P 7350 3100
 F 0 "D18" V 7396 3030 50  0000 R CNN
 F 1 "D_Small" V 7305 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7350 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7350 3100 50  0001 C CNN
 F 3 "~" V 7350 3100 50  0001 C CNN
 	1    7350 3100
 	0    -1   -1   0   
@@ -468,7 +468,7 @@ U 1 1 61315875
 P 7900 3100
 F 0 "D19" V 7946 3030 50  0000 R CNN
 F 1 "D_Small" V 7855 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7900 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7900 3100 50  0001 C CNN
 F 3 "~" V 7900 3100 50  0001 C CNN
 	1    7900 3100
 	0    -1   -1   0   
@@ -490,7 +490,7 @@ U 1 1 61315881
 P 8450 3100
 F 0 "D20" V 8496 3030 50  0000 R CNN
 F 1 "D_Small" V 8405 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8450 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 8450 3100 50  0001 C CNN
 F 3 "~" V 8450 3100 50  0001 C CNN
 	1    8450 3100
 	0    -1   -1   0   
@@ -512,7 +512,7 @@ U 1 1 6131588D
 P 9000 3100
 F 0 "D21" V 9046 3030 50  0000 R CNN
 F 1 "D_Small" V 8955 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9000 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9000 3100 50  0001 C CNN
 F 3 "~" V 9000 3100 50  0001 C CNN
 	1    9000 3100
 	0    -1   -1   0   
@@ -534,7 +534,7 @@ U 1 1 61315899
 P 9550 3100
 F 0 "D22" V 9596 3030 50  0000 R CNN
 F 1 "D_Small" V 9505 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9550 3100 50  0001 C CNN
 F 3 "~" V 9550 3100 50  0001 C CNN
 	1    9550 3100
 	0    -1   -1   0   
@@ -556,7 +556,7 @@ U 1 1 613158A5
 P 10100 3100
 F 0 "D23" V 10146 3030 50  0000 R CNN
 F 1 "D_Small" V 10055 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10100 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10100 3100 50  0001 C CNN
 F 3 "~" V 10100 3100 50  0001 C CNN
 	1    10100 3100
 	0    -1   -1   0   
@@ -578,7 +578,7 @@ U 1 1 613158B1
 P 10650 3100
 F 0 "D24" V 10696 3030 50  0000 R CNN
 F 1 "D_Small" V 10605 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10650 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10650 3100 50  0001 C CNN
 F 3 "~" V 10650 3100 50  0001 C CNN
 	1    10650 3100
 	0    -1   -1   0   
@@ -600,7 +600,7 @@ U 1 1 613158BD
 P 11200 3100
 F 0 "D25" V 11246 3030 50  0000 R CNN
 F 1 "D_Small" V 11155 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11200 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11200 3100 50  0001 C CNN
 F 3 "~" V 11200 3100 50  0001 C CNN
 	1    11200 3100
 	0    -1   -1   0   
@@ -622,7 +622,7 @@ U 1 1 613158C9
 P 11750 3100
 F 0 "D26" V 11796 3030 50  0000 R CNN
 F 1 "D_Small" V 11705 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11750 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11750 3100 50  0001 C CNN
 F 3 "~" V 11750 3100 50  0001 C CNN
 	1    11750 3100
 	0    -1   -1   0   
@@ -644,7 +644,7 @@ U 1 1 613158D5
 P 12300 3100
 F 0 "D27" V 12346 3030 50  0000 R CNN
 F 1 "D_Small" V 12255 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12300 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12300 3100 50  0001 C CNN
 F 3 "~" V 12300 3100 50  0001 C CNN
 	1    12300 3100
 	0    -1   -1   0   
@@ -666,7 +666,7 @@ U 1 1 613158E1
 P 12850 3100
 F 0 "D28" V 12896 3030 50  0000 R CNN
 F 1 "D_Small" V 12805 3030 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12850 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12850 3100 50  0001 C CNN
 F 3 "~" V 12850 3100 50  0001 C CNN
 	1    12850 3100
 	0    -1   -1   0   
@@ -705,7 +705,7 @@ U 1 1 61315902
 P 5700 3100
 F 0 "D15" V 5746 3170 50  0000 L CNN
 F 1 "D_Small" V 5655 3170 50  0000 L CNN
-F 2 "Keebio-Parts:Diode-dual" V 5700 3100 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 5700 3100 50  0001 C CNN
 F 3 "~" V 5700 3100 50  0001 C CNN
 	1    5700 3100
 	0    1    -1   0   
@@ -779,7 +779,7 @@ U 1 1 613468EF
 P 6250 3850
 F 0 "D30" V 6296 3780 50  0000 R CNN
 F 1 "D_Small" V 6205 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6250 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6250 3850 50  0001 C CNN
 F 3 "~" V 6250 3850 50  0001 C CNN
 	1    6250 3850
 	0    -1   -1   0   
@@ -801,7 +801,7 @@ U 1 1 613468FB
 P 6800 3850
 F 0 "D31" V 6846 3780 50  0000 R CNN
 F 1 "D_Small" V 6755 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6800 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6800 3850 50  0001 C CNN
 F 3 "~" V 6800 3850 50  0001 C CNN
 	1    6800 3850
 	0    -1   -1   0   
@@ -823,7 +823,7 @@ U 1 1 61346907
 P 7350 3850
 F 0 "D32" V 7396 3780 50  0000 R CNN
 F 1 "D_Small" V 7305 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7350 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7350 3850 50  0001 C CNN
 F 3 "~" V 7350 3850 50  0001 C CNN
 	1    7350 3850
 	0    -1   -1   0   
@@ -845,7 +845,7 @@ U 1 1 61346913
 P 7900 3850
 F 0 "D33" V 7946 3780 50  0000 R CNN
 F 1 "D_Small" V 7855 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7900 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7900 3850 50  0001 C CNN
 F 3 "~" V 7900 3850 50  0001 C CNN
 	1    7900 3850
 	0    -1   -1   0   
@@ -867,7 +867,7 @@ U 1 1 6134691F
 P 8450 3850
 F 0 "D34" V 8496 3780 50  0000 R CNN
 F 1 "D_Small" V 8405 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8450 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 8450 3850 50  0001 C CNN
 F 3 "~" V 8450 3850 50  0001 C CNN
 	1    8450 3850
 	0    -1   -1   0   
@@ -889,7 +889,7 @@ U 1 1 6134692B
 P 9000 3850
 F 0 "D35" V 9046 3780 50  0000 R CNN
 F 1 "D_Small" V 8955 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9000 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9000 3850 50  0001 C CNN
 F 3 "~" V 9000 3850 50  0001 C CNN
 	1    9000 3850
 	0    -1   -1   0   
@@ -911,7 +911,7 @@ U 1 1 61346937
 P 9550 3850
 F 0 "D36" V 9596 3780 50  0000 R CNN
 F 1 "D_Small" V 9505 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9550 3850 50  0001 C CNN
 F 3 "~" V 9550 3850 50  0001 C CNN
 	1    9550 3850
 	0    -1   -1   0   
@@ -933,7 +933,7 @@ U 1 1 61346943
 P 10100 3850
 F 0 "D37" V 10146 3780 50  0000 R CNN
 F 1 "D_Small" V 10055 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10100 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10100 3850 50  0001 C CNN
 F 3 "~" V 10100 3850 50  0001 C CNN
 	1    10100 3850
 	0    -1   -1   0   
@@ -955,7 +955,7 @@ U 1 1 6134694F
 P 10650 3850
 F 0 "D38" V 10696 3780 50  0000 R CNN
 F 1 "D_Small" V 10605 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10650 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10650 3850 50  0001 C CNN
 F 3 "~" V 10650 3850 50  0001 C CNN
 	1    10650 3850
 	0    -1   -1   0   
@@ -977,7 +977,7 @@ U 1 1 6134695B
 P 11200 3850
 F 0 "D39" V 11246 3780 50  0000 R CNN
 F 1 "D_Small" V 11155 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11200 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11200 3850 50  0001 C CNN
 F 3 "~" V 11200 3850 50  0001 C CNN
 	1    11200 3850
 	0    -1   -1   0   
@@ -999,7 +999,7 @@ U 1 1 61346967
 P 11750 3850
 F 0 "D40" V 11796 3780 50  0000 R CNN
 F 1 "D_Small" V 11705 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11750 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11750 3850 50  0001 C CNN
 F 3 "~" V 11750 3850 50  0001 C CNN
 	1    11750 3850
 	0    -1   -1   0   
@@ -1034,7 +1034,7 @@ U 1 1 613469A0
 P 5700 3850
 F 0 "D29" V 5746 3920 50  0000 L CNN
 F 1 "D_Small" V 5655 3920 50  0000 L CNN
-F 2 "Keebio-Parts:Diode-dual" V 5700 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 5700 3850 50  0001 C CNN
 F 3 "~" V 5700 3850 50  0001 C CNN
 	1    5700 3850
 	0    1    -1   0   
@@ -1103,7 +1103,7 @@ U 1 1 613469DC
 P 6800 4600
 F 0 "D45" V 6846 4530 50  0000 R CNN
 F 1 "D_Small" V 6755 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6800 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6800 4600 50  0001 C CNN
 F 3 "~" V 6800 4600 50  0001 C CNN
 	1    6800 4600
 	0    -1   -1   0   
@@ -1125,7 +1125,7 @@ U 1 1 613469E8
 P 7350 4600
 F 0 "D46" V 7396 4530 50  0000 R CNN
 F 1 "D_Small" V 7305 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7350 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7350 4600 50  0001 C CNN
 F 3 "~" V 7350 4600 50  0001 C CNN
 	1    7350 4600
 	0    -1   -1   0   
@@ -1147,7 +1147,7 @@ U 1 1 613469F4
 P 7900 4600
 F 0 "D47" V 7946 4530 50  0000 R CNN
 F 1 "D_Small" V 7855 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 7900 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 7900 4600 50  0001 C CNN
 F 3 "~" V 7900 4600 50  0001 C CNN
 	1    7900 4600
 	0    -1   -1   0   
@@ -1169,7 +1169,7 @@ U 1 1 61346A00
 P 8450 4600
 F 0 "D48" V 8496 4530 50  0000 R CNN
 F 1 "D_Small" V 8405 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 8450 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 8450 4600 50  0001 C CNN
 F 3 "~" V 8450 4600 50  0001 C CNN
 	1    8450 4600
 	0    -1   -1   0   
@@ -1191,7 +1191,7 @@ U 1 1 61346A0C
 P 9000 4600
 F 0 "D49" V 9046 4530 50  0000 R CNN
 F 1 "D_Small" V 8955 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9000 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9000 4600 50  0001 C CNN
 F 3 "~" V 9000 4600 50  0001 C CNN
 	1    9000 4600
 	0    -1   -1   0   
@@ -1213,7 +1213,7 @@ U 1 1 61346A18
 P 9550 4600
 F 0 "D50" V 9596 4530 50  0000 R CNN
 F 1 "D_Small" V 9505 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9550 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9550 4600 50  0001 C CNN
 F 3 "~" V 9550 4600 50  0001 C CNN
 	1    9550 4600
 	0    -1   -1   0   
@@ -1235,7 +1235,7 @@ U 1 1 61346A24
 P 10100 4600
 F 0 "D51" V 10146 4530 50  0000 R CNN
 F 1 "D_Small" V 10055 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10100 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10100 4600 50  0001 C CNN
 F 3 "~" V 10100 4600 50  0001 C CNN
 	1    10100 4600
 	0    -1   -1   0   
@@ -1257,7 +1257,7 @@ U 1 1 61346A30
 P 10650 4600
 F 0 "D52" V 10696 4530 50  0000 R CNN
 F 1 "D_Small" V 10605 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 10650 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 10650 4600 50  0001 C CNN
 F 3 "~" V 10650 4600 50  0001 C CNN
 	1    10650 4600
 	0    -1   -1   0   
@@ -1279,7 +1279,7 @@ U 1 1 61346A3C
 P 11200 4600
 F 0 "D53" V 11246 4530 50  0000 R CNN
 F 1 "D_Small" V 11155 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11200 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11200 4600 50  0001 C CNN
 F 3 "~" V 11200 4600 50  0001 C CNN
 	1    11200 4600
 	0    -1   -1   0   
@@ -1301,7 +1301,7 @@ U 1 1 61346A60
 P 12850 4600
 F 0 "D55" V 12896 4530 50  0000 R CNN
 F 1 "D_Small" V 12805 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12850 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12850 4600 50  0001 C CNN
 F 3 "~" V 12850 4600 50  0001 C CNN
 	1    12850 4600
 	0    -1   -1   0   
@@ -1334,7 +1334,7 @@ U 1 1 61346A81
 P 5700 4600
 F 0 "D43" V 5746 4670 50  0000 L CNN
 F 1 "D_Small" V 5655 4670 50  0000 L CNN
-F 2 "Keebio-Parts:Diode-dual" V 5700 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 5700 4600 50  0001 C CNN
 F 3 "~" V 5700 4600 50  0001 C CNN
 	1    5700 4600
 	0    1    -1   0   
@@ -1393,7 +1393,7 @@ U 1 1 613A846C
 P 6250 5350
 F 0 "D58" V 6296 5280 50  0000 R CNN
 F 1 "D_Small" V 6205 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6250 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6250 5350 50  0001 C CNN
 F 3 "~" V 6250 5350 50  0001 C CNN
 	1    6250 5350
 	0    -1   -1   0   
@@ -1415,7 +1415,7 @@ U 1 1 613A8478
 P 6800 5350
 F 0 "D59" V 6846 5280 50  0000 R CNN
 F 1 "D_Small" V 6755 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6800 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6800 5350 50  0001 C CNN
 F 3 "~" V 6800 5350 50  0001 C CNN
 	1    6800 5350
 	0    -1   -1   0   
@@ -1437,7 +1437,7 @@ U 1 1 613A84D8
 P 11200 5350
 F 0 "D61" V 11246 5280 50  0000 R CNN
 F 1 "D_Small" V 11155 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11200 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11200 5350 50  0001 C CNN
 F 3 "~" V 11200 5350 50  0001 C CNN
 	1    11200 5350
 	0    -1   -1   0   
@@ -1459,7 +1459,7 @@ U 1 1 613A84E4
 P 11750 5350
 F 0 "D62" V 11796 5280 50  0000 R CNN
 F 1 "D_Small" V 11705 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11750 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11750 5350 50  0001 C CNN
 F 3 "~" V 11750 5350 50  0001 C CNN
 	1    11750 5350
 	0    -1   -1   0   
@@ -1481,7 +1481,7 @@ U 1 1 613A84F0
 P 12300 5350
 F 0 "D63" V 12346 5280 50  0000 R CNN
 F 1 "D_Small" V 12255 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12300 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12300 5350 50  0001 C CNN
 F 3 "~" V 12300 5350 50  0001 C CNN
 	1    12300 5350
 	0    -1   -1   0   
@@ -1503,7 +1503,7 @@ U 1 1 613A84FC
 P 12850 5350
 F 0 "D64" V 12896 5280 50  0000 R CNN
 F 1 "D_Small" V 12805 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12850 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12850 5350 50  0001 C CNN
 F 3 "~" V 12850 5350 50  0001 C CNN
 	1    12850 5350
 	0    -1   -1   0   
@@ -1525,7 +1525,7 @@ U 1 1 613A8508
 P 13400 5350
 F 0 "D65" V 13446 5280 50  0000 R CNN
 F 1 "D_Small" V 13355 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 13400 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 13400 5350 50  0001 C CNN
 F 3 "~" V 13400 5350 50  0001 C CNN
 	1    13400 5350
 	0    -1   -1   0   
@@ -1552,7 +1552,7 @@ U 1 1 613A851D
 P 5700 5350
 F 0 "D57" V 5746 5420 50  0000 L CNN
 F 1 "D_Small" V 5655 5420 50  0000 L CNN
-F 2 "Keebio-Parts:Diode-dual" V 5700 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 5700 5350 50  0001 C CNN
 F 3 "~" V 5700 5350 50  0001 C CNN
 	1    5700 5350
 	0    1    -1   0   
@@ -1772,7 +1772,7 @@ U 1 1 61346A6C
 P 13400 4600
 F 0 "D56" V 13446 4530 50  0000 R CNN
 F 1 "D_Small" V 13355 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 13400 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 13400 4600 50  0001 C CNN
 F 3 "~" V 13400 4600 50  0001 C CNN
 	1    13400 4600
 	0    -1   -1   0   
@@ -1800,7 +1800,7 @@ U 1 1 6134697F
 P 12850 3850
 F 0 "D41" V 12896 3780 50  0000 R CNN
 F 1 "D_Small" V 12805 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 12850 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 12850 3850 50  0001 C CNN
 F 3 "~" V 12850 3850 50  0001 C CNN
 	1    12850 3850
 	0    -1   -1   0   
@@ -1839,7 +1839,7 @@ U 1 1 613A84A8
 P 9000 5350
 F 0 "D60" V 9046 5280 50  0000 R CNN
 F 1 "D_Small" V 8955 5280 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 9000 5350 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 9000 5350 50  0001 C CNN
 F 3 "~" V 9000 5350 50  0001 C CNN
 	1    9000 5350
 	0    -1   -1   0   
@@ -1880,7 +1880,7 @@ U 1 1 613469D0
 P 6250 4600
 F 0 "D44" V 6296 4530 50  0000 R CNN
 F 1 "D_Small" V 6205 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 6250 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 6250 4600 50  0001 C CNN
 F 3 "~" V 6250 4600 50  0001 C CNN
 	1    6250 4600
 	0    -1   -1   0   
@@ -2033,7 +2033,7 @@ F 3 "" H 5850 7850 50  0001 C CNN
 	1    5850 7850
 	1    0    0    -1  
 $EndComp
-Text GLabel 2800 1450 2    50   Input ~ 0
+Text GLabel 1400 2350 0    50   Input ~ 0
 ULED
 Text Notes 4200 6700 0    157  ~ 31
 Underglow
@@ -2984,7 +2984,7 @@ U 1 1 6183A3C3
 P 11750 4600
 F 0 "D54" V 11796 4530 50  0000 R CNN
 F 1 "D_Small" V 11705 4530 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 11750 4600 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 11750 4600 50  0001 C CNN
 F 3 "~" V 11750 4600 50  0001 C CNN
 	1    11750 4600
 	0    -1   -1   0   
@@ -5948,7 +5948,7 @@ U 1 1 612FBE62
 P 13400 3850
 F 0 "D42" V 13446 3780 50  0000 R CNN
 F 1 "D_Small" V 13355 3780 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-dual" V 13400 3850 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual-onesided" V 13400 3850 50  0001 C CNN
 F 3 "~" V 13400 3850 50  0001 C CNN
 	1    13400 3850
 	0    -1   -1   0   
@@ -5958,4 +5958,14 @@ Wire Wire Line
 Text GLabel 13400 3750 1    50   Input ~ 0
 RE
 Connection ~ 12850 3950
+Text GLabel 2800 1450 2    50   Input ~ 0
+ROW0
+Text GLabel 2800 2550 2    50   Input ~ 0
+ROW1
+Text GLabel 2300 2950 3    50   Input ~ 0
+ROW2
+Text GLabel 2200 2950 3    50   Input ~ 0
+ROW3
+Text GLabel 2100 2950 3    50   Input ~ 0
+ROW4
 $EndSCHEMATC

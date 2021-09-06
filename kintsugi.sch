@@ -2033,7 +2033,7 @@ F 3 "" H 5850 7850 50  0001 C CNN
 	1    5850 7850
 	1    0    0    -1  
 $EndComp
-Text GLabel 2800 1450 2    50   Input ~ 0
+Text GLabel 1400 2350 0    50   Input ~ 0
 ULED
 Text Notes 4200 6700 0    157  ~ 31
 Underglow
@@ -5785,9 +5785,9 @@ F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 12200 8525 50  0001
 $EndComp
 Wire Wire Line
 	11950 8600 12100 8600
-Text GLabel 2800 1950 2    50   Input ~ 0
+Text GLabel 1900 2950 3    50   Input ~ 0
 ENCB
-Text GLabel 2800 1850 2    50   Input ~ 0
+Text GLabel 2000 2950 3    50   Input ~ 0
 ENCA
 $Comp
 L keebio:Elite-C U1
@@ -5958,4 +5958,14 @@ Wire Wire Line
 Text GLabel 13400 3750 1    50   Input ~ 0
 RE
 Connection ~ 12850 3950
+Text GLabel 2800 1450 2    50   Input ~ 0
+ROW0
+Text GLabel 2800 2550 2    50   Input ~ 0
+ROW1
+Text GLabel 2300 2950 3    50   Input ~ 0
+ROW2
+Text GLabel 2200 2950 3    50   Input ~ 0
+ROW3
+Text GLabel 2100 2950 3    50   Input ~ 0
+ROW4
 $EndSCHEMATC
