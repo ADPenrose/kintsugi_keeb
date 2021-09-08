@@ -2862,10 +2862,6 @@ F2 F7 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24
 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
-Text GLabel 1900 2950 3    50   Input ~ 0
-ENCB
-Text GLabel 2000 2950 3    50   Input ~ 0
-ENCA
 $Comp
 L keebio:Elite-C U1
 U 1 1 612AFD7E
@@ -2929,16 +2925,6 @@ Wire Wire Line
 	1400 1650 950  1650
 Wire Wire Line
 	1400 1750 1100 1750
-Text GLabel 2800 1450 2    50   Input ~ 0
-ROW0
-Text GLabel 2800 2550 2    50   Input ~ 0
-ROW1
-Text GLabel 2300 2950 3    50   Input ~ 0
-ROW2
-Text GLabel 2200 2950 3    50   Input ~ 0
-ROW3
-Text GLabel 2100 2950 3    50   Input ~ 0
-ROW4
 Wire Notes Line
 	500  5000 3500 5000
 Text GLabel 5150 7300 0    50   Input ~ 0
@@ -5974,4 +5960,18 @@ Wire Notes Line
 	500  6300 3500 6300
 Wire Notes Line
 	3500 500  3500 11200
+Text GLabel 2800 1450 2    50   Input ~ 0
+ROW0
+Text GLabel 2800 2550 2    50   Input ~ 0
+ROW1
+Text GLabel 2100 2950 3    50   Input ~ 0
+ROW4
+Text GLabel 2200 2950 3    50   Input ~ 0
+ROW3
+Text GLabel 2300 2950 3    50   Input ~ 0
+ROW2
+Text GLabel 2000 2950 3    50   Input ~ 0
+ENCA
+Text GLabel 1900 2950 3    50   Input ~ 0
+ENCB
 $EndSCHEMATC
