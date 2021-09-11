@@ -98,7 +98,7 @@ Text GLabel 1400 1850 0    50   Input ~ 0
 SDA
 Text GLabel 1400 1950 0    50   Input ~ 0
 SCL
-Text GLabel 1400 2350 0    50   Input ~ 0
+Text GLabel 950  2250 0    50   Input ~ 0
 ULED
 $Bitmap
 Pos 2000 8500
@@ -5962,16 +5962,18 @@ Wire Notes Line
 	3500 500  3500 11200
 Text GLabel 2800 1450 2    50   Input ~ 0
 ROW0
-Text GLabel 2800 2550 2    50   Input ~ 0
+Text GLabel 1400 2550 0    50   Input ~ 0
 ROW1
 Text GLabel 2100 2950 3    50   Input ~ 0
 ROW4
-Text GLabel 2200 2950 3    50   Input ~ 0
+Text GLabel 1400 2350 0    50   Input ~ 0
 ROW3
-Text GLabel 2300 2950 3    50   Input ~ 0
+Text GLabel 1400 2450 0    50   Input ~ 0
 ROW2
-Text GLabel 1900 2950 3    50   Input ~ 0
-ENCA
 Text GLabel 2000 2950 3    50   Input ~ 0
+ENCA
+Text GLabel 1900 2950 3    50   Input ~ 0
 ENCB
+Text GLabel 1400 1550 0    50   Input ~ 0
+ROW5
 $EndSCHEMATC
