@@ -98,7 +98,7 @@ Text GLabel 1400 1850 0    50   Input ~ 0
 SDA
 Text GLabel 1400 1950 0    50   Input ~ 0
 SCL
-Text GLabel 950  2250 0    50   Input ~ 0
+Text GLabel 2200 2950 3    50   Input ~ 0
 ULED
 $Bitmap
 Pos 2000 8500
@@ -2862,17 +2862,6 @@ F2 F7 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24 49 92 24
 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
-$Comp
-L keebio:Elite-C U1
-U 1 1 612AFD7E
-P 2100 2000
-F 0 "U1" H 2100 2837 60  0000 C CNN
-F 1 "Elite-C" H 2100 2731 60  0000 C CNN
-F 2 "Keebio-Parts:Elite-C" V 3150 -500 60  0001 C CNN
-F 3 "" V 3150 -500 60  0001 C CNN
-	1    2100 2000
-	1    0    0    -1  
-$EndComp
 $Comp
 L power:GND #PWR01
 U 1 1 619FD96C
@@ -5976,4 +5965,40 @@ Text GLabel 1400 2150 0    50   Input ~ 0
 ROW3
 Text GLabel 1400 2250 0    50   Input ~ 0
 ROW2
+Text GLabel 2800 1850 2    50   Input ~ 0
+ROW6
+Text GLabel 2800 1950 2    50   Input ~ 0
+ROW7
+Text GLabel 1400 2550 0    50   Input ~ 0
+ROW8
+Text GLabel 1400 2450 0    50   Input ~ 0
+ROW9
+Text GLabel 2800 2050 2    50   Input ~ 0
+COL0
+Text GLabel 2800 2150 2    50   Input ~ 0
+COL1
+Text GLabel 2800 2250 2    50   Input ~ 0
+COL2
+Text GLabel 2800 2350 2    50   Input ~ 0
+COL3
+$Comp
+L keebio:Elite-C U1
+U 1 1 612AFD7E
+P 2100 2000
+F 0 "U1" H 2100 2837 60  0000 C CNN
+F 1 "Elite-C" H 2100 2731 60  0000 C CNN
+F 2 "Keebio-Parts:Elite-C" V 3150 -500 60  0001 C CNN
+F 3 "" V 3150 -500 60  0001 C CNN
+	1    2100 2000
+	1    0    0    -1  
+$EndComp
+Text GLabel 2800 2450 2    50   Input ~ 0
+COL4
+Text GLabel 2800 2550 2    50   Input ~ 0
+COL5
+Text GLabel 2300 2950 3    50   Input ~ 0
+COL6
+NoConn ~ 1400 1450
+NoConn ~ 2800 1650
+NoConn ~ 2100 2950
 $EndSCHEMATC
